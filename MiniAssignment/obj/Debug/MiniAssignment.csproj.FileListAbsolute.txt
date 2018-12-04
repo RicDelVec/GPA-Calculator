@@ -1,0 +1,10 @@
+C:\Users\ricde\source\repos\MiniAssignment\MiniAssignment\bin\Debug\MiniAssignment.exe.config
+C:\Users\ricde\source\repos\MiniAssignment\MiniAssignment\bin\Debug\MiniAssignment.exe
+C:\Users\ricde\source\repos\MiniAssignment\MiniAssignment\bin\Debug\MiniAssignment.pdb
+C:\Users\ricde\source\repos\MiniAssignment\MiniAssignment\obj\Debug\MiniAssignment.csprojAssemblyReference.cache
+C:\Users\ricde\source\repos\MiniAssignment\MiniAssignment\obj\Debug\MiniAssignment.Form1.resources
+C:\Users\ricde\source\repos\MiniAssignment\MiniAssignment\obj\Debug\MiniAssignment.Properties.Resources.resources
+C:\Users\ricde\source\repos\MiniAssignment\MiniAssignment\obj\Debug\MiniAssignment.csproj.GenerateResource.cache
+C:\Users\ricde\source\repos\MiniAssignment\MiniAssignment\obj\Debug\MiniAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ricde\source\repos\MiniAssignment\MiniAssignment\obj\Debug\MiniAssignment.exe
+C:\Users\ricde\source\repos\MiniAssignment\MiniAssignment\obj\Debug\MiniAssignment.pdb
